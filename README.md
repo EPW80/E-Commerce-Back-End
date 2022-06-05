@@ -90,4 +90,4 @@ This repository is licensed under the MIT license.
 
 ## Questions
 
-Questions about this repository? Please contact me at [Benasabir@gmail.com](mailto:erikpw009@gmail.com@gmail.com). View more of my work in GitHub at [BennAsabir](https://github.com/EPW80)
+Questions about this repository? Please contact me at [Benasabir@gmail.com](mailto:erikpw009@gmail.com@gmail.com). View more of my work in GitHub at [Erik Williams](https://github.com/EPW80)
