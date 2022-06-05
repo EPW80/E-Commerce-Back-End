@@ -37,7 +37,7 @@ To get started clone this repository using
 <br>
 
 ```terminal
-git clone git@github.com:BennAsabir/employee-tracker.git
+git clone git@github.com:EPW80/E-Commerce-Back-End.git
 ```
 
 Both Node.js and MySQL must be installed on your computer.
