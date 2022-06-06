@@ -18,7 +18,7 @@ Image showcasing the application running in Insomnia.
 <img src=./images/one.png>
 
 Demonstration Video
-<!-- <img src=./images/demogif.gif> -->
+<img src=./images/demogif.gif> 
 
 ## Technologies
 
